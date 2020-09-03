@@ -4,7 +4,7 @@
     - Use the 'Oswald' font family at 14px throughout the body of the document.
 */
 
-* {
+body {
   font-family: "Oswald", sans-serif;
   font-size: 14px;
 }
